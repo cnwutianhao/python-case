@@ -41,3 +41,7 @@
   皮肤名： 百木心枪 皮肤url： https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/107/107-bigskin-10.jpg
   百木心枪 已下载到本地
   ```
+  
+  + 成果
+  
+  <img src="https://github.com/cnwutianhao/python-case/blob/main/case%202/image/%E8%B5%B5%E4%BA%91/%E5%98%BB%E5%93%88%E5%A4%A9%E7%8E%8B(%E7%94%B5%E8%84%91).jpg" width="240"/>&nbsp;<img src="https://github.com/cnwutianhao/python-case/blob/main/case%202/image/%E8%B5%B5%E4%BA%91/%E5%BC%95%E6%93%8E%E4%B9%8B%E5%BF%83(%E7%94%B5%E8%84%91).jpg" width="240"/>&nbsp;<img src="https://github.com/cnwutianhao/python-case/blob/main/case%202/image/%E8%B5%B5%E4%BA%91/%E5%BF%8D%E2%97%8F%E7%82%8E%E5%BD%B1(%E7%94%B5%E8%84%91).jpg" width="240"/>&nbsp;<img src="https://github.com/cnwutianhao/python-case/blob/main/case%202/image/%E8%B5%B5%E4%BA%91/%E9%BE%99%E8%83%86(%E7%94%B5%E8%84%91).jpg" width="240"/>
